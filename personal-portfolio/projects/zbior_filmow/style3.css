@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Pacifico&display=swap');
+
+body{
+    background-image: url('tlo.jpg');
+    background-size: cover;
+
+}
+
+h2{
+    text-align: center;
+    font-size: 50px;
+    font-family: "Pacifico", cursive;
+    font-weight: 20;
+    font-style: normal;
+    color: white;
+}
+
+input[type="text"] {
+    height: 40px;
+    width: 500px;
+    margin: 0 auto; 
+    display: block; 
+    text-align: center; 
+}
+
+input[type="password"] {
+    height: 40px;
+    width: 500px;
+    margin: 0 auto; 
+    display: block; 
+    text-align: center; 
+}
+
+input[type="submit"] {
+    height: 40px;
+    width: 500px;
+    margin: 0 auto; 
+    display: block; 
+    text-align: center; 
+}
+

@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Pacifico&display=swap');
+
+body{
+    background-image: url('tlo.jpg');
+    background-size: cover;
+
+}
+
+
+.movie-image {
+    height: 700px; 
+    width: 500px;
+    max-width: 100%;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+p{
+    text-align: center;
+    font-size: 40px;
+    font-family: "Pacifico", cursive;
+    font-weight: 200;
+    font-style: normal;
+    color: white;
+}
+
+.movie-details{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+
+.movie-image-container{
+    width: 50vw;
+}
+
+
+.movie-description-container{
+    width: 50vw;
+}
